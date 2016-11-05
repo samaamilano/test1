@@ -5,7 +5,7 @@ class Welcome extends CI_Controller
 {
 	public function index()
 	{
-		echo 'ad';
+		echo 'asdasdasdasdasdad';
 		$this->load->view('welcome_message');
 	}
 }
