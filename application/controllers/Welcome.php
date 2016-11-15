@@ -5,7 +5,8 @@ class Welcome extends CI_Controller
 {
 	public function index()
 	{
-		echo 'asdasdasdasdasdaaasjkdghjkasdhkjshadkjhaksjdhasdwqad';
+		echo 'first prioject edite';
+		echo 'first prioject edite 22';
 		echo 'sama';
 		$this->load->view('welcome_message');
 	}
