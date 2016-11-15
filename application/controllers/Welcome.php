@@ -8,7 +8,7 @@ class Welcome extends CI_Controller
 		echo 'first prioject edite </br>';
 		echo 'second prioject edite </br>';
 
-		echo 'samaa new third  dumed edit </br>';
+		echo 'samaa new third  dumed edit 2</br>';
 		$this->load->view('welcome_message');
 	}
 }
